@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/public/assets/pacman.svg" />
 </div>
-Jersey+10+Charted
+
 ### Random Dev Quote: 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=30&duration=4500&pause=1000&color=00F72D&vCenter=true&multiline=true&repeat=false&random=true&width=850&lines=%22Nothing+is+as+Permanent+as+a+Temporary+Solution+that+Works%22">
