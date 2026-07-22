@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <!--
 **imgaurav25/imgaurav25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
