@@ -12,7 +12,7 @@
 
 <h3 data-importer="text" align="left">   My Stats :</h3>
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=imgaurav25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=imgaurav25&theme=dark&short_numbers=true&border=363236&background=0D1117&sideNums=FFA133" alt="GitHub Streak" />
 </div>
 
 <!--
