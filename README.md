@@ -8,7 +8,7 @@
 
 ### Random Dev Quote: 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=30&duration=4500&pause=1000&color=00F72D&vCenter=true&multiline=true&repeat=false&random=true&width=850&lines=%22Nothing+is+as+Permanent+as+a+Temporary+Solution+that+Works%22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=30&duration=4500&pause=1000&color=01C900&vCenter=true&multiline=true&repeat=false&random=true&width=980&lines=%22Nothing+is+as+Permanent+as+a+Temporary+Solution+that+Works%22">
 
 <h3 data-importer="text" align="left">   My Stats :</h3>
 <div data-importer="stats" align="center">
